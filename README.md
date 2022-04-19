@@ -1,6 +1,6 @@
-<a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
+a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreya </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manali Mohod </h1>
 <h3 align="center">I am a Full Stack Web Developer. I like building new stuff and work with other people.</h3>
 
 
@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at *[My Portfolio](https://my-portfolio-main-dpoavci1c-shreya16pannase-gmailcom.vercel.app/)*
 
-- 📫 How to reach me *shreya16pannase@gmail.com*
+- 📫 How to reach me *manalimohod19@gmail.com*
 
 - ⚡ Fun fact *I like to play badminton and travelling*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sJJm6y29wVXSBhkuuChZfhQfqU7TZ49l/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MpaoO73LVk3Sx5aoDdsK9wZoPmpTUnG7/view?usp=sharing)
 
 ## 🚀 Languages and Tools:
 
@@ -61,8 +61,8 @@
 ##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shreya-pannase-382814214/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://shreya16pannase@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/manali-mohod-578868220/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://manalimohod19@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
