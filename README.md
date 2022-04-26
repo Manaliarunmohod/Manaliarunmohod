@@ -12,7 +12,7 @@ a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prett
 
 - 👯 I’m looking to collaborate on *OpenSource Projects* 
 
-- 👨‍💻 All of my projects are available at *[My Portfolio](https://my-portfolio-main-dpoavci1c-shreya16pannase-gmailcom.vercel.app/)*
+- 👨‍💻 All of my projects are available at *[My Portfolio](https://cheerful-zabaione-730231.netlify.app/)*
 
 - 📫 How to reach me *manalimohod19@gmail.com*
 
