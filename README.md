@@ -1,4 +1,4 @@
-a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
+ <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manali Mohod </h1>
 <h3 align="center">I am a Full Stack Web Developer. I like building new stuff and work with other people.</h3>
